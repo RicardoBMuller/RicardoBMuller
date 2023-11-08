@@ -14,3 +14,7 @@ Testando a replicação da info! V2
 Testando a replicação da info! V3 - Versionamento
 
 Salvando alterações no GIT!
+
+Uso do comando git restore
+
+* comando git push
